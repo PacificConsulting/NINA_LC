@@ -11,5 +11,5 @@ tableextension 50500 "PUrchase And Payable LC" extends "Purchases & Payables Set
     }
 
     var
-        myInt: Integer;
+    //myInt: Integer;
 }
